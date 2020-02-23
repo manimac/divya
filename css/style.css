@@ -1,0 +1,32 @@
+.external{
+    color: greenyellow;
+}
+.gallary{
+    background: gray;
+    width: 30%;
+    height: 150px;
+    color: greenyellow;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    float: left;
+    margin-left: 2%;
+    /* overflow: scroll; */
+}
+.gallary:hover{
+    background: greenyellow;
+    color: gray;
+    border: 1px solid black;
+}
+.unordered li{
+    list-style: circle;
+}
+.popup{
+    width: 40%;
+    background: greenyellow;
+    position: fixed;
+    top: 10%;
+    left: 30%;
+    padding: 20px;
+}
